@@ -70,8 +70,8 @@ enableGitInfo = false
   #Wednesday 09:00 to 10:00<br>
   #Otherwise email to book an appointment
   #"""
-  phone = "218 235 9991"
-  skype = "echo123"
+  phone = ""
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -263,7 +263,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:hgchavo05@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:hgayala@psu.edu"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
