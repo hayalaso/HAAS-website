@@ -23,14 +23,13 @@ date_format = "Jan 2006"
   title = "Swift Cycle 16 Guest Investigator Program"
   organization = "NASA"
   date_start ="2020-04-15"
-  description = "Proposal with title SWIFT FOLLOW-UP SEARCHES OF
-COINCIDENCES FROM THE AMON NEUTRINO + GAMMA-RAY PROGRAM, was funded by NASA."
+  description = "Proposal with title SWIFT FOLLOW-UP SEARCHES OF COINCIDENCES FROM THE AMON NEUTRINO + GAMMA-RAY PROGRAM, was funded by NASA."
 
 [[item]]
   title = "Swift Cycle 15 Guest Investigator Program"
   organization = "NASA"
   date_start ="2019-04-15"
-  description = "Proposal with title SWIFT FOLLOW-UP SEARCHES OF LOW FALSE ALARM RATE HIGH-ENERGY NEUTRINO and GAMMA-RAY COINCIDENCES, was funded by NASA."
+  description ="Proposal with title SWIFT FOLLOW-UP SEARCHES OF LOW FALSE ALARM RATE HIGH-ENERGY NEUTRINO and GAMMA-RAY COINCIDENCES, was funded by NASA."
 
 [[item]]
   title = "Neural Networks and Deep Learning"
