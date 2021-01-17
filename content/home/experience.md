@@ -31,6 +31,8 @@ date_format = "January 2006"
   * Software development and maintance
   * Data Analysis
   * Monitoring of real time alerts. 
+  * Extragalactic group coordinator in HAWC
+  * Multiwavelength and Multimessenger coordinator in HAWC
   """
 
 [[experience]]
