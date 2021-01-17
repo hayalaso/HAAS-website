@@ -40,6 +40,14 @@ date_format = "January 2006"
   company = "Michigan Technological Univeristy"
   date_start = "2011-09-01"
   date_end = "2017-04-30"
+  description = """HAWC Researcher
+
+  Responsabilities:
+  
+  * Calibration hardware and software
+  * Algorithm to reconstruct events
+  * Study of the Fermi Bubbles
+  """
 
 [[experience]]
   title = "Research Intern at ITESM- Photonics and Mathematical Optics Group"
