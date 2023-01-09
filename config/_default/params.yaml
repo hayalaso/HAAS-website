@@ -7,8 +7,8 @@
 
 appearance:
   #theme: custom_theme
-  theme_day: coffee
-  theme_night: coffee
+  theme_day: earth
+  theme_night: earth
   day_night: true
   font: 'custom_font'
   font_size: L
