@@ -60,7 +60,7 @@ sections:
     - company: The Pennsylvania State University
       company_logo: ""
       company_url: ""
-      date_end: "2021-01-03"
+      date_end: "2022-01-03"
       date_start: "2017-05-14"
       description: Member of HAWC, IceCube and AMON.
       location: Pennsylvania
